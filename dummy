@@ -1,0 +1,14 @@
+Now use this robust api for integrating dynamodb into your application
+API  acts like a additional security layer to your resource
+where we are eliminating direct access to the sensitive resource
+All you need to do 
+{
+clone my repo
+run STS suite 
+place AWS IAM cred in application.properties
+}
+#Restful API for AWS-dynamodb CRUD operations
+#SpringBoot API
+#STS IDE (suggested one)
+#check with source code (Github repo link below)
+#postman helps in passing parameters, json body , other headers
